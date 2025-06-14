@@ -37,10 +37,11 @@ Backend-приложение на Java для создания и проверк
 ```sql
 CREATE DATABASE otp_service;
 ```
----выполните из папки проекта
+-Выполните из папки проекта:
+```
 mvn clean package
 java -jar target/otp-backend-1.0-SNAPSHOT.jar
----
+```
 
 ###  Конфигурация  
 
